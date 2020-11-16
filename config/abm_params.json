@@ -1,0 +1,21 @@
+{
+    "breath_prob": 0.5, 
+    "cough_prob":0.3,
+    "sneeze_prob": 0.2,
+
+    "breath_dist": 1,
+    "cough_dist": 2,
+    "sneeze_dist": 6,
+
+    "prob_infected": 0.05, 
+    
+    "num_col_left": 3,
+    "num_col_mid": 1,
+    "num_col_right": 2,
+    
+    "num_row": 15,
+
+    "dist_bw_seats": 3,
+
+    "num_infected": 2
+}

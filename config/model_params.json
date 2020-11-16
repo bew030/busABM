@@ -1,3 +1,5 @@
-{   
-    "STUB CODE"
+{
+    "breathes_per_min": 14,
+    "trip_duration": 2,
+    "destination": "data/raw/"
 }
